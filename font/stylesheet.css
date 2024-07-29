@@ -1,0 +1,273 @@
+@font-face {
+    font-family: 'UEFA Euro Book';
+    src: url('UEFAEuro-Book.eot');
+    src: local('UEFA Euro Book'), local('UEFAEuro-Book'),
+        url('UEFAEuro-Book.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-Book.woff2') format('woff2'),
+        url('UEFAEuro-Book.woff') format('woff'),
+        url('UEFAEuro-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro Bold Extended';
+    src: url('UEFAEuro-BoldExtended.eot');
+    src: local('UEFA Euro Bold Extended'), local('UEFAEuro-BoldExtended'),
+        url('UEFAEuro-BoldExtended.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-BoldExtended.woff2') format('woff2'),
+        url('UEFAEuro-BoldExtended.woff') format('woff'),
+        url('UEFAEuro-BoldExtended.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro';
+    src: url('UEFAEuro-ExtraBold.eot');
+    src: local('UEFA Euro ExtraBold'), local('UEFAEuro-ExtraBold'),
+        url('UEFAEuro-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-ExtraBold.woff2') format('woff2'),
+        url('UEFAEuro-ExtraBold.woff') format('woff'),
+        url('UEFAEuro-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro';
+    src: url('UEFAEuro-Heavy.eot');
+    src: local('UEFA Euro Heavy'), local('UEFAEuro-Heavy'),
+        url('UEFAEuro-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-Heavy.woff2') format('woff2'),
+        url('UEFAEuro-Heavy.woff') format('woff'),
+        url('UEFAEuro-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro';
+    src: url('UEFAEuro-Bold.eot');
+    src: local('UEFA Euro Bold'), local('UEFAEuro-Bold'),
+        url('UEFAEuro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-Bold.woff2') format('woff2'),
+        url('UEFAEuro-Bold.woff') format('woff'),
+        url('UEFAEuro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro Heavy Extended';
+    src: url('UEFAEuro-HeavyExtended.eot');
+    src: local('UEFA Euro Heavy Extended'), local('UEFAEuro-HeavyExtended'),
+        url('UEFAEuro-HeavyExtended.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-HeavyExtended.woff2') format('woff2'),
+        url('UEFAEuro-HeavyExtended.woff') format('woff'),
+        url('UEFAEuro-HeavyExtended.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro Bold Narrow';
+    src: url('UEFAEuro-BoldNarrow.eot');
+    src: local('UEFA Euro Bold Narrow'), local('UEFAEuro-BoldNarrow'),
+        url('UEFAEuro-BoldNarrow.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-BoldNarrow.woff2') format('woff2'),
+        url('UEFAEuro-BoldNarrow.woff') format('woff'),
+        url('UEFAEuro-BoldNarrow.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro Book Narrow';
+    src: url('UEFAEuro-BookNarrow.eot');
+    src: local('UEFA Euro Book Narrow'), local('UEFAEuro-BookNarrow'),
+        url('UEFAEuro-BookNarrow.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-BookNarrow.woff2') format('woff2'),
+        url('UEFAEuro-BookNarrow.woff') format('woff'),
+        url('UEFAEuro-BookNarrow.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro Book Extended';
+    src: url('UEFAEuro-BookExtended.eot');
+    src: local('UEFA Euro Book Extended'), local('UEFAEuro-BookExtended'),
+        url('UEFAEuro-BookExtended.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-BookExtended.woff2') format('woff2'),
+        url('UEFAEuro-BookExtended.woff') format('woff'),
+        url('UEFAEuro-BookExtended.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro ExtraBold Narrow';
+    src: url('UEFAEuro-ExtraBoldNarrow.eot');
+    src: local('UEFA Euro ExtraBold Narrow'), local('UEFAEuro-ExtraBoldNarrow'),
+        url('UEFAEuro-ExtraBoldNarrow.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-ExtraBoldNarrow.woff2') format('woff2'),
+        url('UEFAEuro-ExtraBoldNarrow.woff') format('woff'),
+        url('UEFAEuro-ExtraBoldNarrow.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro ExtraBold Extended';
+    src: url('UEFAEuro-ExtraBoldExtended.eot');
+    src: local('UEFA Euro ExtraBold Extended'), local('UEFAEuro-ExtraBoldExtended'),
+        url('UEFAEuro-ExtraBoldExtended.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-ExtraBoldExtended.woff2') format('woff2'),
+        url('UEFAEuro-ExtraBoldExtended.woff') format('woff'),
+        url('UEFAEuro-ExtraBoldExtended.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro Medium Extended';
+    src: url('UEFAEuro-MediumExtended.eot');
+    src: local('UEFA Euro Medium Extended'), local('UEFAEuro-MediumExtended'),
+        url('UEFAEuro-MediumExtended.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-MediumExtended.woff2') format('woff2'),
+        url('UEFAEuro-MediumExtended.woff') format('woff'),
+        url('UEFAEuro-MediumExtended.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro Heavy Narrow';
+    src: url('UEFAEuro-HeavyNarrow.eot');
+    src: local('UEFA Euro Heavy Narrow'), local('UEFAEuro-HeavyNarrow'),
+        url('UEFAEuro-HeavyNarrow.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-HeavyNarrow.woff2') format('woff2'),
+        url('UEFAEuro-HeavyNarrow.woff') format('woff'),
+        url('UEFAEuro-HeavyNarrow.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro';
+    src: url('UEFAEuro-Thin.eot');
+    src: local('UEFA Euro Thin'), local('UEFAEuro-Thin'),
+        url('UEFAEuro-Thin.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-Thin.woff2') format('woff2'),
+        url('UEFAEuro-Thin.woff') format('woff'),
+        url('UEFAEuro-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro Thin Extended';
+    src: url('UEFAEuro-ThinExtended.eot');
+    src: local('UEFA Euro Thin Extended'), local('UEFAEuro-ThinExtended'),
+        url('UEFAEuro-ThinExtended.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-ThinExtended.woff2') format('woff2'),
+        url('UEFAEuro-ThinExtended.woff') format('woff'),
+        url('UEFAEuro-ThinExtended.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro';
+    src: url('UEFAEuro-Light.eot');
+    src: local('UEFA Euro Light'), local('UEFAEuro-Light'),
+        url('UEFAEuro-Light.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-Light.woff2') format('woff2'),
+        url('UEFAEuro-Light.woff') format('woff'),
+        url('UEFAEuro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro Light Narrow';
+    src: url('UEFAEuro-LightNarrow.eot');
+    src: local('UEFA Euro Light Narrow'), local('UEFAEuro-LightNarrow'),
+        url('UEFAEuro-LightNarrow.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-LightNarrow.woff2') format('woff2'),
+        url('UEFAEuro-LightNarrow.woff') format('woff'),
+        url('UEFAEuro-LightNarrow.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro Light Extended';
+    src: url('UEFAEuro-LightExtended.eot');
+    src: local('UEFA Euro Light Extended'), local('UEFAEuro-LightExtended'),
+        url('UEFAEuro-LightExtended.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-LightExtended.woff2') format('woff2'),
+        url('UEFAEuro-LightExtended.woff') format('woff'),
+        url('UEFAEuro-LightExtended.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro Medium Narrow';
+    src: url('UEFAEuro-MediumNarrow.eot');
+    src: local('UEFA Euro Medium Narrow'), local('UEFAEuro-MediumNarrow'),
+        url('UEFAEuro-MediumNarrow.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-MediumNarrow.woff2') format('woff2'),
+        url('UEFAEuro-MediumNarrow.woff') format('woff'),
+        url('UEFAEuro-MediumNarrow.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro Thin Narrow';
+    src: url('UEFAEuro-ThinNarrow.eot');
+    src: local('UEFA Euro Thin Narrow'), local('UEFAEuro-ThinNarrow'),
+        url('UEFAEuro-ThinNarrow.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-ThinNarrow.woff2') format('woff2'),
+        url('UEFAEuro-ThinNarrow.woff') format('woff'),
+        url('UEFAEuro-ThinNarrow.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UEFA Euro';
+    src: url('UEFAEuro-Medium.eot');
+    src: local('UEFA Euro Medium'), local('UEFAEuro-Medium'),
+        url('UEFAEuro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('UEFAEuro-Medium.woff2') format('woff2'),
+        url('UEFAEuro-Medium.woff') format('woff'),
+        url('UEFAEuro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
